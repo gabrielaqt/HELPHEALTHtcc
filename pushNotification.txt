@@ -1,0 +1,7 @@
+https://dev.to/abdulkareemtpm/push-notification-react-native-android-5n6
+
+
+https://github.com/zo0r/react-native-push-notification
+
+
+https://github.com/zo0r/react-native-push-notification/blob/master/example/NotifService.js
